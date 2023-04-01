@@ -12,7 +12,7 @@ If you want to play around with the model construction, you will have to:
   3. Download the dataset for the names at https://pypi.org/project/names-dataset/
     into the project folder. In particular, the "curate" folder should be listed directly
     under the project folder so that it may be referenced from the Jupyter notebook through:
-    ```"./curate"```
+    ```"./curate"```.
 ### Utility
 On the other hand, if you just want to use the model, you will have to:
   1. Download Tensorflow
