@@ -7,12 +7,13 @@ words and thus functions the best on individual words.
 ### Engineering
 If you want to play around with the model construction, you will have to:
   1. Download Tensorflow
-  2. Download gtts(for text-to-speech--not required)
+  2. Download gtts(for text-to-speech--not required, but if you choose not to use it
+    be sure to delete the import and its usage in the Jupyter notebook)
   3. Download the dataset for the names at https://pypi.org/project/names-dataset/
     into the project folder.
 ### Utility
 On the other hand, if you just want to use the model, you will have to:
   1. Download Tensorflow
   2. Load either the weight1 or weight2 weight sets(make
-    sure to check the model architecture as listed in the Python notebook)
+    sure to check the model architecture as listed in the Jupyter notebook)
   3. Use model.predict() as it fits your needs.
