@@ -19,3 +19,5 @@ On the other hand, if you just want to use the model, you will have to:
   2. Load either the weight1 or weight2 weight sets(make
     sure to check the model architecture as listed in the Jupyter notebook)
   3. Use model.predict() as it fits your needs.
+
+If you have any questions or would like to collaborate, contact me at sactoa@gmail.com.
